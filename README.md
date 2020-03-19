@@ -2,4 +2,5 @@
 
 # 1. Git push
 # 2. Git pull
-# 2. Git fetch
+# 3. Git fetch
+# 4. Git add
